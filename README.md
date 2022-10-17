@@ -47,24 +47,24 @@
   - Czym jest priorytet procesu i co to jest parametr NICESNESS?
   - Użytkownik efektywny EUSER a rzeczywisty RUSER, kiedy przechodzimy z rzeczywistego na efektywny
   
-  - <strong>SO_Skrypt_v3.pdf</strong> (głownie skrypty w BASHu) zawiera:
-    - Pobieranie danych od użytkownika
-    - Argumenty i ich wyświetlanie
-    - Generowanie randomowej liczby
-    - Operacje matematyczne
-    - Instrukcja warunkowa if
-    - Instrukcja case
-    - Pętla for
-    - Pętla while
-    - Funkcje, użycie i suchy przykład
-    - Prawa dostępu chmod (powtórka)
-    - Instrukcja warunkowa w praktyce
-    - Pętla for, przeskok po zakresie w przykładzie
-    - Skakanie po argumentach
-    - Operacje matematyczne (kalkulator)
-    - Ciąg Fibonacciego
-    - Operacje na zasobach
-    - NWD (największy wspólny dzielnik) – program
-    - Ciąg arytmetyczny, suma i wypisanie składników
-    - Kalkulator z użyciem funkcji
-    - Operacje na tablicy – suma, średnia, minimum, maksimum
+ - <strong>SO_Skrypt_v3.pdf</strong> (głownie skrypty w BASHu) zawiera:
+  - Pobieranie danych od użytkownika
+  - Argumenty i ich wyświetlanie
+  - Generowanie randomowej liczby
+  - Operacje matematyczne
+  - Instrukcja warunkowa if
+  - Instrukcja case
+  - Pętla for
+  - Pętla while
+  - Funkcje, użycie i suchy przykład
+  - Prawa dostępu chmod (powtórka)
+  - Instrukcja warunkowa w praktyce
+  - Pętla for, przeskok po zakresie w przykładzie
+  - Skakanie po argumentach
+  - Operacje matematyczne (kalkulator)
+  - Ciąg Fibonacciego
+  - Operacje na zasobach
+  - NWD (największy wspólny dzielnik) – program
+  - Ciąg arytmetyczny, suma i wypisanie składników
+  - Kalkulator z użyciem funkcji
+  - Operacje na tablicy – suma, średnia, minimum, maksimum
