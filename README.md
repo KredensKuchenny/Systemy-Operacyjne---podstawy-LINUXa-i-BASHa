@@ -47,7 +47,7 @@
   - Czym jest priorytet procesu i co to jest parametr NICESNESS?
   - Użytkownik efektywny EUSER a rzeczywisty RUSER, kiedy przechodzimy z rzeczywistego na efektywny
   
- - <strong>SO_Skrypt_v3.pdf</strong> (głownie skrypty w BASHu) zawiera:
+- <strong>SO_Skrypt_v3.pdf</strong> (głownie skrypty w BASHu) zawiera:
   - Pobieranie danych od użytkownika
   - Argumenty i ich wyświetlanie
   - Generowanie randomowej liczby
