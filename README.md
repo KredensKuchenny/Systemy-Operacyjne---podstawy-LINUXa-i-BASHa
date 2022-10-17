@@ -24,3 +24,26 @@
   - Zmiana grupy dla pliku/katalogu
   - Dowiązania linkowanie
  
+- <strong>SO_Skrypt_v1.pdf</strong> zawiera:
+  - Strumienie wejścia wyjścia i dodawania do pliku
+  - Polecenie cut służy do „wycinania / wyciągania” części z pliku
+  - Polecenie cat służy do wyświetlania zawartości pliku
+  - Polecenie head służy do wyświetlania początkowej części pliku
+  - Polecenie more służy do wyświetlania zawartości pliku z możliwością poruszania się po nim
+  - Polecenie less to takie more ale na dopalaczach, możemy skrolować plik
+  - Polecenie tail to odwrotność head, służy do odczytywania końcówki pliku
+  - Polecenie wc służy do zliczania (wierszy, słów, znaków)
+  - Polecenie uniq sprawdza czy nie występują jakieś powtórzenia (UWAGA używać tylko gdy posortowaliśmy zawartość)
+  - Polecenie cmp służy do porównywania zawartości plików (bajt po bajcie)
+  - Polecenie diff również służy do porównywania, ale jest bardziej zaawansowane i pokazuje każdą różnice
+  - Polecenie sort sortuje dane (UWAGA, dopiero po sort można używać uniq)
+  - Polecenie tr zamienia znaki na inne, może usuwać nadmierne ilości znaków np. kropki
+  - Polecenie join łączy ze sobą pliki w jeden spójny
+  - Polecenie paste zlepia linie podanych plików oddzielając je znakiem tabulacji
+  - Polecenie grep wyszukuje podaną przez nas frazę (działa jak sito)
+  - Proces (informacje)
+  - Gdy wylistujemy procesy (ps aux) u góry z zobaczymy wiersz z
+  - Zabijanie procesu kill <pid>
+  - Czym jest priorytet procesu i co to jest parametr NICESNESS?
+  - Użytkownik efektywny EUSER a rzeczywisty RUSER, kiedy przechodzimy z rzeczywistego na efektywny
+  
