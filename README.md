@@ -1,5 +1,5 @@
 # Systemy Operacyjne - podstawy LINUXa i BASHa
-- Zbiór trzech PDF-ów z prywatnej kolekcji 😈 zawierających podstawy LINUXa i BASHa.
+### Zbiór trzech PDF-ów z prywatnej kolekcji 😈 zawierających podstawy LINUXa i BASHa.
 
 - <strong>SO_Skrypt_v1.pdf</strong> zawiera:
   - Wyświetlanie informacji na temat systemu operacyjnego
